@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: spectralwaste_segmentation
+Version: 0.1
+Author: 
+Requires-Python: >=3.9
+Requires-Dist: numpy<2.0
+Requires-Dist: matplotlib
+Requires-Dist: imageio
+Requires-Dist: easydict
+Requires-Dist: scikit-image
+Requires-Dist: scikit-learn==1.3.2
+Requires-Dist: pandas
+Requires-Dist: opencv-python
+Requires-Dist: torch==2.2.2
+Requires-Dist: torchvision==0.17.2
+Requires-Dist: torchmetrics
+Requires-Dist: wandb
+Dynamic: requires-dist
+Dynamic: requires-python

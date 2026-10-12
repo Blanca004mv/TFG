@@ -1,0 +1,17 @@
+# Datos y Checkpoints
+data/
+checkpoints/
+results/
+*.pth
+*.tar
+*.zip
+*.npy
+
+# Entornos y logs
+.venv/
+env/
+__pycache__/
+*.pyc
+.wandb/
+wandb/
+.DS_Store
